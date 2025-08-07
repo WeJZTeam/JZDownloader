@@ -4,12 +4,12 @@ Download apps with the click of a button
 1. Download the JZDownloader:
    ```bash
    # linux
-   wget <your_download_link_here>
+   wget https://raw.githubusercontent.com/WeJZTeam/JZDownloader/main/JZDownloader.bat
    # windows
-   curl -L -o AppDownloader.exe "https://github.com/zaxxspc/AppDownloader/releases/download/v1.0.0/AppDownloader.exe"
+   curl -L -o AppDownloader.exe "https://raw.githubusercontent.com/WeJZTeam/JZDownloader/main/JZDownloader.bat"
 2. Run JZDownloader
 ```
-./JZDownloader.exe
+./JZDownloader.bat
 ```
 ## 📦 Features
 
