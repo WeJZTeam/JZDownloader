@@ -9,7 +9,10 @@ Download apps with the click of a button
    curl -L -o JZDownloader.bat "https://raw.githubusercontent.com/WeJZTeam/JZDownloader/main/JZDownloader.bat"
 2. Run JZDownloader
 ```
+# linux
 ./JZDownloader.bat
+# windows
+JZDownloader.bat
 ```
 ## 📦 Features
 
