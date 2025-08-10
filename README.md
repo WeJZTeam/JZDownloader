@@ -48,4 +48,7 @@ JZDownloader.bat
 
 1. Download the program:
    ```bash
-   wget <your_download_link_here>
+   # linux
+   wget https://raw.githubusercontent.com/WeJZTeam/JZDownloader/main/JZDownloader.bat
+   # windows
+   curl -L -o JZDownloader.bat "https://raw.githubusercontent.com/WeJZTeam/JZDownloader/main/JZDownloader.bat"
